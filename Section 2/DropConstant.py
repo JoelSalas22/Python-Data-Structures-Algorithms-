@@ -6,8 +6,9 @@ def print_items(n):
         print(j)
 
 print_items(10)
---Output--
-O(2n) --> O(n)
+
+# --Output--
+# O(2n) --> O(n)
 
 0
 1
