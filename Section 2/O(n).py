@@ -3,7 +3,7 @@ def print_items(n):
         print(i)
 
 print_items(10)
---OutPut--
+# --OutPut--
 0
 1
 2
