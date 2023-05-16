@@ -23,5 +23,14 @@ cookie_one.set_color('yellow')
 print('\nCookie one is now', cookie_one.get_color())
 print('Cookie two is still', cookie_two.get_color())
 
+# ------------OutPut------------ 
+
 """
-The difference 
+
+Cookie one is green
+Cookie two is blue
+
+Cookie one is now yellow
+Cookie two is still blue
+
+"""
