@@ -3,3 +3,14 @@ def print_items(n):
         print(i)
 
 print_items(10)
+--OutPut--
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
